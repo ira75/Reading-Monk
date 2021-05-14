@@ -1,4 +1,6 @@
-# The reading monk
+# Reading Monk 
+Reading Monk is the Book Exchange Web-Application designed using MERN Stack by a team of four developers. I was one of the front-end developers for the application.
+
 
 Table of Content
 *  [General Info](#general-info)
