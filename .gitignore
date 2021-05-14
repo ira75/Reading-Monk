@@ -1,0 +1,5 @@
+node_modules/
+.idea/
+reading-monk.iml
+.DS_Store
+.nyc_output
